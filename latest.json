@@ -1,5 +1,5 @@
 {
-  "version": "0.1.16",
-  "url": "https://github.com/Jansuh/Practicashop/releases/latest",
-  "notes": "Openen, Opslaan (Ctrl+S) en Opslaan als… in de werkbalk: schakelingen als bestand in een map naar keuze"
+  "version": "0.1.17",
+  "url": "https://github.com/practicashop/releases/releases/latest",
+  "notes": "Automatisch bijwerken: de geïnstalleerde app haalt nieuwe versies zelf op; downloads op github.com/practicashop/releases"
 }
