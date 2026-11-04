@@ -1,5 +1,5 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "url": "https://github.com/practicashop/releases/releases/latest",
-  "notes": "Automatisch bijwerken: de geïnstalleerde app haalt nieuwe versies zelf op; downloads op github.com/practicashop/releases"
+  "notes": "Licenties en proefperiode: sleutel of dertig dagen proef bij de eerste start; beheer vanuit de app"
 }
