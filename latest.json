@@ -1,5 +1,5 @@
 {
-  "version": "0.1.19",
+  "version": "0.1.20",
   "url": "https://github.com/practicashop/releases/releases/latest",
-  "notes": "startscherm bij het opstarten en ondertekende updates"
+  "notes": "De app werkt zichzelf nu bij zodra er een kwartier niet gewerkt is; een klik of toets stelt het uit"
 }
