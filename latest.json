@@ -1,5 +1,5 @@
 {
-  "version": "0.1.20",
+  "version": "0.2.0",
   "url": "https://github.com/practicashop/releases/releases/latest",
-  "notes": "De app werkt zichzelf nu bij zodra er een kwartier niet gewerkt is; een klik of toets stelt het uit"
+  "notes": "Engelse versie, meer logica en autotechniek, meetvragen die de app nakijkt en een overzicht voor de docent"
 }
